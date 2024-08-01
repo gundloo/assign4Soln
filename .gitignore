@@ -1,0 +1,6 @@
+# ignore .gitignore file itself
+*.gitignore
+#ignore all text files
+*.txt
+# ignore all subdirectories
+*/*
